@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suiun007
 - 👀 I’m interested in ...CSS, HTML, Javascript, Node.js, Android, SQL
-- 🌱 I’m currently learning ...MS SQL, Android, Javascript
+- 🌱 I’m currently learning ...MS SQL, Android, Swift, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...abdyldasql@gmail.com
 
